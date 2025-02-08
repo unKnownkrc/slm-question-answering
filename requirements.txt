@@ -1,0 +1,6 @@
+PyPDF2
+nltk
+transformers
+torch
+Flask
+pdfplumber
